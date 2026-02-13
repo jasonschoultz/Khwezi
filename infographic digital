@@ -1,0 +1,57 @@
+Khwezi Holdings - Jason Schoultz
+
+Generate ONE image, size 1080x1350 (4:5 portrait).
+
+STYLE / MEDIUM (non-negotiable):
+- Pure solid white background #FFFFFF. No texture, no shadows, no gradients.
+- Must look like a real clean whiteboard / presentation pad scan, viewed straight-on.
+- Hand-drawn using marker pens only: black, blue, red, green + highlighters yellow/orange only.
+- Lines slightly imperfect/wobbly like marker ink, but neat and corporate.
+- NO digital fonts. All text must be hand-lettered / hand-printed in marker.
+- Text must be large and mobile-legible. Lots of white space. Minimal, uncluttered.
+- No dates, no QR codes, no URLs, no watermarks, no “follow for more”.
+
+CONTENT SAFETY (no hallucinations):
+- Do NOT include statistics, numbers-as-proof, quotes, or claims that require evidence.
+- Keep wording general and practical (cause/effect, best-practice phrasing).
+- If anything is uncertain, omit it rather than inventing it.
+
+LAYOUT (match the provided reference image format):
+1) TOP HEADER AREA (centered):
+   - Big bold hand-lettered title in dark blue marker:
+     "{TOPIC TITLE}"
+   - Smaller hand-lettered subtitle in black marker inside parentheses:
+     "({SHORT HOOK / SUBTITLE})"
+
+2) MIDDLE AREA (three tall rounded-rectangle cards, evenly spaced across the page):
+   - Each card has:
+     a) a simple hand-drawn icon at top (corporate, minimal)
+     b) a bold hand-lettered heading (uppercase)
+     c) 2–4 short bullet points (no long paragraphs)
+   - Use small magenta/pink bullet dots for bullets (marker-like, not digital).
+
+   CARD 1 (left) – heading: "{CARD 1 HEADING}"
+     - Icon suggestion: cloud + coin / cash symbol
+     - Bullets: {CARD 1 BULLETS}
+
+   CARD 2 (center) – heading: "{CARD 2 HEADING}"
+     - Icon suggestion: gear + circular arrow / checklist shield
+     - Bullets: {CARD 2 BULLETS}
+
+   CARD 3 (right) – heading: "{CARD 3 HEADING}"
+     - Icon suggestion: warning triangle / exclamation
+     - Bullets: {CARD 3 BULLETS}
+
+3) CONNECTORS (magenta/pink hand-drawn arrows like the reference):
+   - A curved arrow from Card 1 → Card 2
+   - A curved arrow from Card 2 → Card 3
+   - Keep arrows thin, neat, and hand-drawn.
+
+4) LOGO (bottom-right):
+- Place the EXACT Khwezi Holdings logo from the provided reference image (do not redraw, do not alter text).
+- Reduce size so it fits neatly and professionally in the bottom-right corner.
+- Keep clear padding from the edges.
+- always make sure you use this logo Do NOT hallucinate.
+
+DEFAULT TEXT (if no custom content provided):
+Topic Title: 
